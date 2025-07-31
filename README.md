@@ -51,3 +51,20 @@ orlando-bot/
 ├── Main.js # Entry point utama bot
 ├── Package.json # Dependensi & script
 ├── README.md # Dokumentasi (file ini)
+
+
+
+---
+
+## ⚙️ Instalasi & Jalankan
+
+```bash
+# Clone repo
+git clone https://github.com/OrlandoOfficial/orlando-bot
+cd orlando-bot
+
+# Install dependensi
+npm install
+
+# Jalankan bot
+node Main.js
