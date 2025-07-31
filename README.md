@@ -41,4 +41,13 @@
 ---
 
 ## 🧾 Struktur Folder
-
+orlando-bot/
+├── plugin/ # Semua perintah/plugin dinamis
+├── lib/ # Loader plugin
+├── lowdb/ # Penyimpanan database JSON
+├── sessions/ # Data login WA
+├── asseth/Image/ # Logo & QRIS
+├── Config.js # Konfigurasi global bot
+├── Main.js # Entry point utama bot
+├── Package.json # Dependensi & script
+├── README.md # Dokumentasi (file ini)
